@@ -6,5 +6,6 @@ Releases of SynKasTV app
 <!-- RELEASES-HISTORIC-START -->
 | Fecha (UTC) | Canal | Versión | Version Code | Changelog |
 |-------------|-------|---------|--------------|-----------|
+| 2026-11-11 | `beta` | `1.0.0-beta.17` | 17 | - Merge pull request #45 from xispalabs/alpha<br>- Merge pull request #44 from xispalabs/feature/introdb-episode-segments<br>- fix(player): shorten heuristic credits fallback to 20s<br>- feat(player): add next-episode overlay at credits mark<br>- feat(player): show skip button for intro, recap, and preview |
 | 2026-11-11 | `beta` | `1.0.0-beta.16` | 16 | - Merge pull request #43 from xispalabs/alpha<br>- Merge pull request #42 from xispalabs/fix/player-4k-exceeds-capabilities<br>- Merge pull request #41 from xispalabs/fix/screensaver-during-playback<br>- Merge pull request #40 from xispalabs/fix/ota-update-dialog-focus<br>- fix(player): explain 4K/HEVC exceeds-capabilities errors |
 <!-- RELEASES-HISTORIC-END -->
