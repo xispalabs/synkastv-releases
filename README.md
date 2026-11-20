@@ -6,6 +6,7 @@ Releases of SynKasTV app
 <!-- RELEASES-HISTORIC-START -->
 | Fecha (UTC) | Canal | Versión | Version Code | Changelog |
 |-------------|-------|---------|--------------|-----------|
+| 2026-11-20 | `stable` | `1.1.1` | 41 | - Merge pull request #102 from xispalabs/beta<br>- Merge pull request #101 from xispalabs/alpha<br>- Merge pull request #100 from xispalabs/ci/downstream-version-sync<br>- ci: desambiguar push de sync a refs/heads/beta<br>- chore(release): 1.1.0 [skip ci] |
 | 2026-11-20 | `beta` | `1.0.0-beta.40` | 40 | - Merge pull request #101 from xispalabs/alpha<br>- Merge pull request #100 from xispalabs/ci/downstream-version-sync<br>- ci: desambiguar push de sync a refs/heads/beta<br>- Merge pull request #98 from xispalabs/alpha<br>- Merge pull request #97 from xispalabs/ci/downstream-version-sync |
 | 2026-11-20 | `stable` | `1.1.0` | 39 | - Merge pull request #99 from xispalabs/beta<br>- Merge pull request #98 from xispalabs/alpha<br>- Merge pull request #97 from xispalabs/ci/downstream-version-sync<br>- ci: sync SemVer aguas abajo tras deploy exitoso<br>- Merge pull request #96 from xispalabs/alpha |
 | 2026-11-20 | `beta` | `1.0.0-beta.38` | 38 | - Merge pull request #98 from xispalabs/alpha<br>- Merge pull request #97 from xispalabs/ci/downstream-version-sync<br>- ci: sync SemVer aguas abajo tras deploy exitoso<br>- Merge pull request #96 from xispalabs/alpha<br>- Merge pull request #95 from xispalabs/feature/firebase-analytics |
