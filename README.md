@@ -6,6 +6,7 @@ Releases of SynKasTV app
 <!-- RELEASES-HISTORIC-START -->
 | Fecha (UTC) | Canal | Versión | Version Code | Changelog |
 |-------------|-------|---------|--------------|-----------|
+| 2026-11-21 | `stable` | `1.1.2` | 44 | - Merge pull request #107 from xispalabs/beta<br>- Merge pull request #106 from xispalabs/alpha<br>- Merge pull request #105 from xispalabs/feature/ci-inject-google-services-json<br>- ci(deploy): inject google-services.json from Actions secret<br>- Merge pull request #104 from xispalabs/alpha |
 | 2026-11-21 | `beta` | `1.1.1-beta.43` | 43 | - Merge pull request #106 from xispalabs/alpha<br>- Merge pull request #105 from xispalabs/feature/ci-inject-google-services-json<br>- ci(deploy): inject google-services.json from Actions secret<br>- Merge pull request #104 from xispalabs/alpha<br>- Merge pull request #103 from xispalabs/fix/watch-history-unique-active |
 | 2026-11-20 | `beta` | `1.1.1-beta.42` | 42 | - Merge pull request #104 from xispalabs/alpha<br>- Merge pull request #103 from xispalabs/fix/watch-history-unique-active<br>- fix(sync): avoid watch_history 23505 by resolving on title key<br>- chore(release): 1.1.1 [skip ci]<br>- Merge pull request #102 from xispalabs/beta |
 | 2026-11-21 | `stable` | `1.1.1` | 41 | - Merge pull request #102 from xispalabs/beta<br>- Merge pull request #101 from xispalabs/alpha<br>- Merge pull request #100 from xispalabs/ci/downstream-version-sync<br>- ci: desambiguar push de sync a refs/heads/beta<br>- chore(release): 1.1.0 [skip ci] |
