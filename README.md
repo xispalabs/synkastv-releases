@@ -6,6 +6,7 @@ Releases of SynKasTV app
 <!-- RELEASES-HISTORIC-START -->
 | Fecha (UTC) | Canal | Versión | Version Code | Changelog |
 |-------------|-------|---------|--------------|-----------|
+| 2026-11-23 | `beta` | `1.1.2-beta.46` | 46 | - Merge pull request #111 from xispalabs/alpha<br>- Merge pull request #110 from xispalabs/fix/next-episode-overlay-focus<br>- fix(player): restore D-pad focus on next-episode Cancel<br>- Merge pull request #109 from xispalabs/alpha<br>- Merge pull request #108 from xispalabs/feature/about-legal-links |
 | 2026-11-23 | `beta` | `1.1.2-beta.45` | 45 | - Merge pull request #109 from xispalabs/alpha<br>- Merge pull request #108 from xispalabs/feature/about-legal-links<br>- feat(about): add localized legal document links with TV QR flow<br>- chore(release): 1.1.2 [skip ci]<br>- Merge pull request #107 from xispalabs/beta |
 | 2026-11-23 | `stable` | `1.1.2` | 44 | - Merge pull request #107 from xispalabs/beta<br>- Merge pull request #106 from xispalabs/alpha<br>- Merge pull request #105 from xispalabs/feature/ci-inject-google-services-json<br>- ci(deploy): inject google-services.json from Actions secret<br>- Merge pull request #104 from xispalabs/alpha |
 | 2026-11-21 | `beta` | `1.1.1-beta.43` | 43 | - Merge pull request #106 from xispalabs/alpha<br>- Merge pull request #105 from xispalabs/feature/ci-inject-google-services-json<br>- ci(deploy): inject google-services.json from Actions secret<br>- Merge pull request #104 from xispalabs/alpha<br>- Merge pull request #103 from xispalabs/fix/watch-history-unique-active |
