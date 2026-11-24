@@ -6,6 +6,7 @@ Releases of SynKasTV app
 <!-- RELEASES-HISTORIC-START -->
 | Fecha (UTC) | Canal | Versión | Version Code | Changelog |
 |-------------|-------|---------|--------------|-----------|
+| 2026-11-24 | `stable` | `1.2.0` | 48 | - Merge pull request #115 from xispalabs/beta<br>- Merge pull request #113 from xispalabs/alpha<br>- Merge pull request #112 from xispalabs/fix/mobile-seekbar-touch-drag<br>- feat(player): touch scrubbing, double-tap ±30s and remote FF/REW steps<br>- Merge pull request #111 from xispalabs/alpha |
 | 2026-11-24 | `beta` | `1.1.2-beta.47` | 47 | - Merge pull request #113 from xispalabs/alpha<br>- Merge pull request #112 from xispalabs/fix/mobile-seekbar-touch-drag<br>- feat(player): touch scrubbing, double-tap ±30s and remote FF/REW steps<br>- Merge pull request #111 from xispalabs/alpha<br>- Merge pull request #110 from xispalabs/fix/next-episode-overlay-focus |
 | 2026-11-23 | `beta` | `1.1.2-beta.46` | 46 | - Merge pull request #111 from xispalabs/alpha<br>- Merge pull request #110 from xispalabs/fix/next-episode-overlay-focus<br>- fix(player): restore D-pad focus on next-episode Cancel<br>- Merge pull request #109 from xispalabs/alpha<br>- Merge pull request #108 from xispalabs/feature/about-legal-links |
 | 2026-11-23 | `beta` | `1.1.2-beta.45` | 45 | - Merge pull request #109 from xispalabs/alpha<br>- Merge pull request #108 from xispalabs/feature/about-legal-links<br>- feat(about): add localized legal document links with TV QR flow<br>- chore(release): 1.1.2 [skip ci]<br>- Merge pull request #107 from xispalabs/beta |
